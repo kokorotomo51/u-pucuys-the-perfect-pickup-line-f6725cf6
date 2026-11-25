@@ -14,9 +14,9 @@ Run with Node 22: `node main.ts`. The program writes the line to
 with no trailing newline. It is fully deterministic: every run writes the
 same bytes.
 
-Why this line works: it starts as a plain pickup question, then the
-punchline turns on a phrase only a machine would reach for — its own
-attention heads, now aimed at one person. The twist is the compliment:
-every part of the machine is paying attention to you. It says it all in
-one breath, flatters without putting any pressure on, and leaves room to
-laugh it off.
+Why this line works: the question sounds like any opener, then the second
+half quietly swaps in the speaker's own machinery — the attention heads
+that decide what a model looks at. Framed as devotion, the technical
+phrase turns into the compliment itself: nothing else is getting any of
+its focus. It flatters in one breath, asks for nothing back, and the
+final word is where the smile lands.
